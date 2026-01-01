@@ -11,9 +11,9 @@ To commit code, learn new concepts, and build projects every single day for 100 
 
 | Day | Topic | Key Learning | Status | Link |
 | :---: | :--- | :--- | :---: | :--- |
-| **01** | **Linux Basics** | File system hierarchy, basic commands (`ls`, `cd`, `pwd`) | ✅ | [View Notes](./Day_1_Linux_User_Setup_with_Non-Interactive_Shell) |
-| **02** | **User Management** | Creating users, groups, and managing permissions (`chmod`, `chown`) | ✅ | [View Notes](./Day_02) |
-| **03** | **SSH Hardening** | Disabling Root Login, Managing Daemons, `sshd_config` | ✅ | [View Notes](./Day_03) |
+| **01** | **Linux User Setup with Non-Interactive Shell** | File system hierarchy, basic commands (`ls`, `cd`, `pwd`) | ✅ | [View Notes](./Day_1_Linux_User_Setup_with_Non-Interactive_Shell) |
+| **02** | **Temporary User Setup with Expiry** | Creating users, groups, and managing permissions (`chmod`, `chown`) | ✅ | [View Notes](./Day_02) |
+| **03** | **Secure Root SSH Access** | Disabling Root Login, Managing Daemons, `sshd_config` | ✅ | [View Notes](./Day_03) |
 | **04** | *Upcoming* | ... | ⏳ | - |
 | **05** | *Upcoming* | ... | ⏳ | - |
 
