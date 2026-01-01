@@ -38,8 +38,8 @@ This repository is organized day-by-day. Inside each folder, you will find:
 
 ## 🔗 Connect with Me
 I post daily updates about this challenge on LinkedIn.
-* **LinkedIn:** [Your LinkedIn Profile Link Here]
-* **Twitter/X:** [Your X Handle Here]
+* **LinkedIn:** [click here](https://www.linkedin.com/in/mohdafsarhussain/)
+* **Twitter/X:** [click here](https://x.com/AFSARHU97849211)
 
 ---
 *Started on: December 30, 2025*
