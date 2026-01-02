@@ -12,8 +12,8 @@ To commit code, learn new concepts, and build projects every single day for 100 
 | Day | Topic | Key Learning | Status | Link |
 | :---: | :--- | :--- | :---: | :--- |
 | **01** | **Linux User Setup with Non-Interactive Shell** | `useradd -s /sbin/nologin`, preventing interactive logins for service accounts | ✅ | [View Notes](./Day_1_Linux_User_Setup_with_Non-Interactive_Shell) |
-| **02** | **Temporary User Setup with Expiry** | `useradd -e YYYY-MM-DD`, `chage -l`, managing account lifecycles | ✅ | [View Notes](./Day_02) |
-| **03** | **Secure Root SSH Access** | `PermitRootLogin no` in `sshd_config`, service hardening, `systemctl restart sshd` | ✅ | [View Notes](./Day_03) |
+| **02** | **Temporary User Setup with Expiry** | `useradd -e YYYY-MM-DD`, `chage -l`, managing account lifecycles | ✅ | [View Notes](./Day_2_Temporary_User_Setup_with_Expiry) |
+| **03** | **Secure Root SSH Access** | `PermitRootLogin no` in `sshd_config`, service hardening, `systemctl restart sshd` | ✅ | [View Notes](./Day_3_Secure_Root_SSH_Access) |
 | **04** | *Upcoming* | ... | ⏳ | - |
 | **05** | *Upcoming* | ... | ⏳ | - |
 
