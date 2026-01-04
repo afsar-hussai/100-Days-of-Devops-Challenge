@@ -15,8 +15,8 @@ To commit code, learn new concepts, and build projects every single day for 100 
 | **02** | **Temporary User Setup with Expiry** | `useradd -e YYYY-MM-DD`, `chage -l`, managing account lifecycles | ✅ | [View Notes](./Day_2_Temporary_User_Setup_with_Expiry) |
 | **03** | **Secure Root SSH Access** | `PermitRootLogin no` in `sshd_config`, service hardening, `systemctl restart sshd` | ✅ | [View Notes](./Day_3_Secure_Root_SSH_Access) |
 | **04** | **Script Execution Permissions** | Scripts need Read (r) + Execute (x) permission | ✅ | [View Notes](./Day_4_Script_Execution_Permissions) |
-| **Day 5** | SELinux Config | Installed `selinux-policy` and learned to permanently disable SELinux by editing `/etc/selinux/config` (changing `enforcing` to `disabled`). | ✅ Completed | [Day 5 Solution](./Day05/README.md) |
-| **Day 6** | Cron Jobs | Installed `cronie` package, used `crontab -e` to schedule tasks, and learned to verify execution via `systemctl status` when system logs are missing. | ✅ Completed | [Day 6 Solution](./Day06/README.md) |
+| **Day 5** | SELinux Config | Installed `selinux-policy` and learned to permanently disable SELinux by editing `/etc/selinux/config` (changing `enforcing` to `disabled`). | ✅ Completed | [View Notes](./Day_5_SElinux_Installation_and_Configuration) |
+| **Day 6** | Cron Jobs | Installed `cronie` package, used `crontab -e` to schedule tasks, and learned to verify execution via `systemctl status` when system logs are missing. | ✅ Completed | [View Notes](./Day_6_Create_a_Cron _Job) |
 
 *(I will update this table daily with links to my notes)*
 
