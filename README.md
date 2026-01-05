@@ -17,6 +17,7 @@ To commit code, learn new concepts, and build projects every single day for 100 
 | **04** | **Script Execution Permissions** | Scripts need Read (r) + Execute (x) permission | ✅ | [View Notes](./Day_4_Script_Execution_Permissions) |
 | **Day 5** | SELinux Config | Installed `selinux-policy` and learned to permanently disable SELinux by editing `/etc/selinux/config` (changing `enforcing` to `disabled`). | ✅ Completed | [View Notes](./Day_5_SElinux_Installation_and_Configuration) |
 | **Day 6** | Cron Jobs | Installed `cronie` package, used `crontab -e` to schedule tasks, and learned to verify execution via `systemctl status` when system logs are missing. | ✅ Completed | [View Notes](./Day_6_Create_a_Cron_Job) |
+| **07** | **Linux SSH Authentication** | `ssh-copy-id` for password-less login, resolving user-server mapping errors, and strict permission math (600/700) | ✅ | [View Notes](./Day_7_Linux_SSH_Authentication) |
 
 *(I will update this table daily with links to my notes)*
 
